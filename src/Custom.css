@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.custom-header{
+    color: black !important;
+    text-decoration: none !important;
+}
+.pro_img{
+    max-width: 200px;
+    /* width: 150px; */
+    max-height: 150px;
+    /* height: 150px; */
+}
+.cart_product_item{
+    border: none;
+    box-shadow: 0px 0px 87px 5px rgb(202 202 202 / 50%);
+    border-radius: 26px;
+}
+.cart_product_img{
+    max-width: 135px;
+    margin: auto;
+    max-height: 135px;
+}
+.card-head{
+    height: 150px;
+}
+.rating{
+    color: #eae020;
+    font-size: 20px;
+}
+.card-title{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.price{
+    font-size: 24px;
+    font-weight: bolder;
+    margin: 15px;
+}
+.card-btn{
+    width: 206px;
+    color: white;
+    font-weight: bolder;
+    border: 2px solid #2171ad;
+    letter-spacing: 2px;
+    border-radius: 11px;
+    -webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    -ms-border-radius: 11px;
+    -o-border-radius: 11px;
+}
+.card-btn:hover{
+    color: #2171ad !important;
+    background-color: white;
+}
+.pagination-btn{
+    color: white;
+    border: 2px solid #2171ad;
+    border-radius: 11px;
+    -webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    -ms-border-radius: 11px;
+    -o-border-radius: 11px;
+}
+.logo-img{
+    width: 45px;
+}
+.heart-custom{
+    color: red;
+}
+.heart-custom1{
+    color: red;
+    font-size: 30px;
+}
+.form-style{
+    width: 380px;
+}
